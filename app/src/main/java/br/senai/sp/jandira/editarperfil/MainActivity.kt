@@ -130,8 +130,8 @@ fun EditarPerfil() {
 
                 // Altera Senha
                 EditarCampoPerfil(
-                    label = "Alterar Senha",
-                    placeholder = "",
+                    label = "",
+                    placeholder = "Alterar Senha",
                     trailingIcon = {
                         Icon(
                             imageVector = Icons.Default.ArrowForward,
